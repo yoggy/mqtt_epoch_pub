@@ -1,0 +1,9 @@
+host:     mqtt.example.com
+port:     1883
+use_auth: true
+username: username
+password: password
+topic:
+  - publish_topic1
+  - publish_topic2
+  - publish_topic3
